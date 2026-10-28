@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1020"/><stop offset="1" stop-color="#20234a"/></linearGradient><linearGradient id="tx" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#b9a7ff"/><stop offset=".55" stop-color="#86b7ff"/><stop offset="1" stop-color="#75e6c3"/></linearGradient></defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="950" cy="200" r="250" fill="#8d7aff" opacity=".08"/><circle cx="1000" cy="500" r="220" fill="#75e6c3" opacity=".06"/>
+  <rect x="85" y="85" width="48" height="48" rx="13" fill="#9178f7"/><rect x="97" y="109" width="7" height="14" rx="2" fill="#fff"/><rect x="108" y="95" width="7" height="28" rx="2" fill="#fff"/><rect x="119" y="102" width="7" height="21" rx="2" fill="#fff"/>
+  <text x="153" y="116" fill="#f4f6ff" font-family="Arial,sans-serif" font-size="25" font-weight="600">Digital Quality Solution</text>
+  <text x="85" y="270" fill="#f4f6ff" font-family="Arial,sans-serif" font-size="60" font-weight="700">AI-powered Software QA</text>
+  <text x="85" y="345" fill="url(#tx)" font-family="Arial,sans-serif" font-size="46" font-weight="700">Better quality. Less repetitive work.</text>
+  <text x="85" y="420" fill="#a7b1c9" font-family="Arial,sans-serif" font-size="25">Developing practical AI-assisted testing workflows.</text>
+  <text x="85" y="560" fill="#7683a0" font-family="Arial,sans-serif" font-size="18">EARLY-STAGE PRODUCT DEVELOPMENT</text>
+</svg>
